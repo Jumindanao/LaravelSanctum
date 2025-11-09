@@ -1,0 +1,2 @@
+# LaravelSanctum
+Laravel Sanctum Application
